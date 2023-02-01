@@ -6,6 +6,8 @@ Install the following dependencies to get going.
 
 1. Numpy
 2. Matplotlib
+3. Keras
+4. Tensorflow
 
 ### Setup
 
